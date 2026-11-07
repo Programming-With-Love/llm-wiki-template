@@ -1,0 +1,5 @@
+# llm-wiki 必需依赖（第三方库按正常 pip 导入）
+openai>=1.0
+pydantic>=2.13
+pyyaml>=6.0
+json_repair>=0.30
